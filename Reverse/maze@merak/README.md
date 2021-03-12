@@ -25,6 +25,6 @@ ctf⽐赛中经典的迷宫题⽬，此题把难度升级了⼀点⽽已，把�
 然后按alt+L键⽅便选取，选取数据完成后按shift+E导出数据，导出完后发现会有\x00\x00\x00\x00，
 这不刚好⽅便⽤软件替换吗（善⽤替换功能，防⽌⼿残了），替换后⽤⼴搜算法⼀搜就出来了  
 [map](./map.txt)  
-![img](./img/5.png)  
+具體解題代碼請參照[solve.cpp](./solve.cpp)  
 解出路径为：
 DDDDDDDDDDDDWWWWDDDDDDDDDDDDDDDDDDDDDDDDDDDDWWDDDDDDDDWWDDWWDDDDDDWWDDDDDDDDDDDDDDDDDDDDDDDDDDDDWWWWWWWWWWWWWWDDWWWWWWWWWWWWWWDDWWWWWWWWWWWWWWWWWWWWWWWWWWDDDDWWDDDDDDWWWWWWW

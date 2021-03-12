@@ -16,7 +16,7 @@ Hide
 
 ---
 
-open the file, we notice that is a artical from 澳門日報 and with saome space? so i respect that is whitespcae language.
+open the file, we notice that is a artical from 澳門日報 and with saome space? so i suspect that is whitespcae language.
 ![img](./img/1.png)
 
 search for whitespace language then decrypt it.

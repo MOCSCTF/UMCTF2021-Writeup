@@ -10,6 +10,7 @@ Facebook: https://www.facebook.com/MOCSCTF</br></br></br>
 感謝以下提供協助:  
 thanks for provided support:  
 Teru@MOCTF  
+Simon Leong@MOCTF  
 Bon@MOCTF  
 Wendy@MOCTF  
 RB916120@MOCTF  

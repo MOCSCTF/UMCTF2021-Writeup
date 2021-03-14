@@ -12,7 +12,7 @@ thanks for provided support:
 Teru@MOCTF  
 Simon Leung@MOCTF  
 Bon@MOCTF  
-Bluebeer@MOCTF  
+bluebear@MOCTF  
 RB916120@MOCTF  
 molamola@MOCTF  
 Allon@MOCTF  

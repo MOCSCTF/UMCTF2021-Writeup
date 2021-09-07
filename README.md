@@ -17,6 +17,7 @@ RB916120@MOCTF
 molamola@MOCTF  
 Allon@MOCTF  
 T4rn@MOCTF  
+danniel@Boardware  
 P0tato@[Merak天璇](https://we.buptmerak.cn/) 20级  
 茯苓@[Merak天璇](https://we.buptmerak.cn/) 20级  
 wyjbot@[Merak天璇](https://we.buptmerak.cn/) 20级  

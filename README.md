@@ -3,7 +3,7 @@ writeup of UMCTF2021 hosted by MOCSCTF
 ![img](./img/UMCTF.png)  
 
 歡迎加入我們:  
-Welcom to join us at:  
+Welcome to join us at:  
 CTFTimes: https://ctftime.org/team/120747</br>
 Facebook: https://www.facebook.com/MOCSCTF</br></br></br>
 
